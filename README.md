@@ -7,6 +7,8 @@
 
 This repository contains a deep learning project aimed at detecting brain tumors from MRI images. The project implements a Convolutional Neural Network (CNN) for classification and utilizes Grad-CAM for visualizing the tumor regions. Additionally, a pre-trained VGG16 model is used to enhance predictions and interpretability.
 
+![Tumor Detection Example](examples/example4.png)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -367,10 +369,6 @@ Below are some example images and Grad-CAM visualizations:
 ### Confusion Matrix Table
 
 ![Confusion Matrix Table](examples/example3.png)
-
-### Tumor Detection Example
-
-![Tumor Detection Example](examples/example4.png)
 
 ## Future Work
 
